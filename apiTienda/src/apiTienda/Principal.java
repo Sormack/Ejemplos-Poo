@@ -15,7 +15,7 @@ public class Principal {
 		int existenicia, indice, menuPrincipal, subMenu, elemento;
 
 		Productos producto = null;
-
+		String c = "asd";
 		List<Productos> lista = new ArrayList<Productos>();
 
 		// Menu principal
